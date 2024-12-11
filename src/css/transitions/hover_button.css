@@ -1,0 +1,10 @@
+#hover_button button:hover
+{
+    box-shadow: 1rem 1rem rgb(8,68,148);
+    background-image: url('../../images/transitions/hover_button/Hoover-JEdgar-LOC_(cropped).jpg');
+    width: 320px;
+    height: 320px;
+    background-size: cover;
+    color:rgba(0,0,0,0)
+}
+ 

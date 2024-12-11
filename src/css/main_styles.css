@@ -1,0 +1,20 @@
+*
+{
+    position: inherit;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+#all_encompasing_element
+{
+    position: absolute;
+    background-color: rgb(246, 246, 246);
+    width: 100%;
+    height: 100%;
+}
+
+#task_encompasing_element
+{
+    position: relative;
+}

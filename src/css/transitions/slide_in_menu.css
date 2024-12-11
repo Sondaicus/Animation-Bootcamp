@@ -1,0 +1,85 @@
+section, div
+{
+    
+
+}
+
+div.slide_in_menu
+{
+
+}
+
+
+
+
+
+.slide_in_menu_option_1
+{
+    background-color: rgb(255, 0, 170);
+}
+
+.slide_in_menu_option_2
+{
+    background-color: rgb(255, 0, 170);
+}
+
+.slide_in_menu_option_3
+{
+    background-color: rgb(255, 0, 170);
+}
+
+.slide_in_menu_option_4
+{
+    background-color: rgb(255, 0, 170);
+}
+    
+#slide_in_menu_table
+{
+
+    width: 100%;
+
+}
+
+
+#slide_in_menu_table_cell_1
+{
+    height: 100%;
+    background-color: rgb(188, 253, 10);
+    width: 25%;
+
+}
+
+#slide_in_menu_table_cell_2
+{
+
+    background-color: rgb(103, 10, 253);
+    width: 75%;
+    height: 100%;
+
+}
+
+#fuck
+{
+    height: 100%;
+    width: 100%;
+}
+
+.slide_in_menu_information_box
+{
+    position: relative;
+    background-color: rgb(23, 218, 16);
+    height: 100%;
+    width: 100%;
+
+}
+
+#toggle_slide_in_menu_information_box
+{
+    height: 100%;
+    width: 100%;
+}
+
+div, td
+{
+    height: 100%;
+}
